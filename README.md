@@ -8,9 +8,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Chambr**
-- 🌱 I'm currently learning **Django**
-- 💬 Ask me about **Backend Developement**
+- Backend developer with strong expertise in C++ and Python, skilled in building scalable web applications using Django. Experienced in developing and integrating machine learning models, with solid knowledge of Data Structures and Algorithms
+- Currently working on **Chambr**
 
 ## 🛠️ Tech Stack
 
@@ -29,9 +28,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalkumar-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal29.ku@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcode.com/u/VishalVoyager/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leetcode.com/u/VishalVoyager/)
 
 </div>
 
