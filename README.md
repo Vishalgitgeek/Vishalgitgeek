@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - Backend developer with strong expertise in C++ and Python, skilled in building scalable web applications using Django. Experienced in developing and integrating machine learning models, with solid knowledge of Data Structures and Algorithms
-- Currently working on **Chambr**
+- Currently working on **Image Search Engine**
 
 ## 🛠️ Tech Stack
 
