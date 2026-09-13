@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on integrating MCP service to our AI-Agent "Open Analyst"
+I'm currently working on "DataForge" a Data Intelligence Platform.
 
 
 ## 🌐 Socials:
